@@ -1,0 +1,15 @@
+{
+  "name": "nm-metamath-symbols",
+  "version": "0.0.0",
+  "homepage": "http://us.metamath.org/symbols/symbols.html",
+  "authors": [
+    "Norman Megill",
+    "Stefan O'Rear <stefanor@cox.net>"
+  ],
+  "description": "Norman Megill's public domain GIF math symbols for Metamath",
+  "keywords": [
+    "metamath",
+    "symbols"
+  ],
+  "license": "CC0-1.0"
+}
