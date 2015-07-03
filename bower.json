@@ -11,5 +11,7 @@
     "metamath",
     "symbols"
   ],
+  ignore: [],
+  main: [],
   "license": "CC0-1.0"
 }
